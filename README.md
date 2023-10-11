@@ -39,27 +39,5 @@ The project aims to provide valuable insights into Olympic performance trends, c
 
 4. **Power BI Stage:** In the final stage, Power BI is utilized for data visualization and reporting, enabling stakeholders to access insights and make informed decisions based on Olympic Games data.
 ---
-![image](https://github.com/jayjatharjj/Olympics_Data_Engineering_Solution/assets/121347635/f52810b9-cea5-4669-964c-c54708f8b235)
-
-## Contributions 🤝
-
-Contributions to this project are welcome! Feel free to submit a pull request if you have any suggestions or want to add more features. Please ensure your changes are well-tested and align with the project's goals.
-
-## Get in Touch 📞
-
-If you have any questions, suggestions, or feedback, don't hesitate to reach out to us. You can contact me on [LinkedIn](www.linkedin.com/in/jayjathar1409) 
-
-## Languages and Tools
-
-<p align="left"> <a href="" target="_blank"><img src="https://www.vectorlogo.zone/logos/apache_hadoop/apache_hadoop-icon.svg" alt = "c" width="60" height="40"/></a>
-<a href="" target="_blank"><img src="https://www.vectorlogo.zone/logos/apache_hive/apache_hive-icon.svg" alt = "c" width="40" height="40"/></a>
-<a href="" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/b/b4/Apache_Sqoop_logo.svg" alt = "c" width="60" height="40"/></a>
-<a href="" target="_blank"><img src="https://www.vectorlogo.zone/logos/snowflake/snowflake-ar21.svg" alt = "c" width="60" height="40"/></a>
- <a href="" target="_blank"><img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-ar21.svg" alt = "c" width="60" height="40"/></a>
- <a href="" target="_blank"><img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-ar21.svg" alt = "c" width=60" height="40"/></a>
- <a href="" target="_blank"><img src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg" alt = "c" width="60" height="40"/></a>
-<a href="https://seekvectorlogo.com/power-bi-vector-logo-svg/" target="_blank"><img src="https://seekvectorlogo.com/wp-content/uploads/2022/02/power-bi-vector-logo-2022.png" alt="c" width="60" height="40"/></a>
-
----
 
 Happy data engineering!
