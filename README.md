@@ -1,4 +1,4 @@
-# End to End Olympic Events Data Engineering Solution
+# End to End Olympic Events Data Engineering Solution.
 
 ## Brief Description
  
